@@ -59,7 +59,7 @@ body {
     font-size: 21px;
     user-select: none;
     border-bottom: 1px solid rgba(255, 255, 255, 0.05);
-    /* border-right: 1px solid rgba(255, 255, 255, 0.05); */
+    border-right: 1px solid rgba(255, 255, 255, 0.05);
     transition: .2s ease-in-out;
 }
 
